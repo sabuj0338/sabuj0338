@@ -4,18 +4,13 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-I'm a passionate developer with a keen interest in web development, open-source contributions, and learning new technologies. I love to build projects that solve real-world problems and continuously strive to improve my skills.
+I've developed projects used by millions. Passionate about creating seamless user experiences and leveraging technology to solve complex problems. I love to build projects that solve real-world problems and continuously strive to improve my skills.
 
-- 🌱 I’m currently learning **React.js and Node.js**
+- 🌱 I’m currently learning **Golang**
 - 🔭 I’m currently working on **an e-commerce web application**
-- 👯 I’m looking to collaborate on **open-source projects**
-- 💬 Ask me about **JavaScript, Python, and web development**
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 💬 Ask me about **JavaScript, PHP, Flutter, and web development**
+- 📫 How to reach me: [sabuj0338@gmail.com](mailto:sabuj0338@gmail.com)
 - ⚡ Fun fact: I love hiking and exploring nature!
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabuj0338&show_icons=true&theme=radical)
 
 ## Top Languages
 
@@ -25,16 +20,14 @@ I'm a passionate developer with a keen interest in web development, open-source 
 
 Here are some of my notable projects:
 
-- [Project 1](https://github.com/sabuj0338/project1) - A brief description of Project 1.
-- [Project 2](https://github.com/sabuj0338/project2) - A brief description of Project 2.
-- [Project 3](https://github.com/sabuj0338/project3) - A brief description of Project 3.
+- [axios-friday](https://github.com/sabuj0338/axios-friday) - A TypeScript library to solve API calls with manage auth.
+- [auto-silent-scheduler](https://github.com/sabuj0338/auto-silent-scheduler) - A mobile application that solves silent phones automatically.
 
 Feel free to check out my repositories and contribute if you find something interesting!
 
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/sabuj0338)
-- [Twitter](https://twitter.com/sabuj0338)
-- [Personal Website](https://sabuj0338.github.io)
+- [Personal Website](https://sabuj0338.github.io/portfolio)
 
 Thanks for stopping by! 😄
